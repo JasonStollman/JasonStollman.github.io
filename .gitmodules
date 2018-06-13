@@ -1,0 +1,7 @@
+[submodule "Resume"]
+	path = Resume
+	url = https://github.com/JStollman/Resume.git
+
+[submodule "nasa"]
+	path = nasa
+	url = https://github.com/JStollman/nasa.git
